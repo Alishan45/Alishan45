@@ -54,7 +54,7 @@
 
 ## 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA.gif" alt="AI Cyber Cat" width="50%">
+  <img src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=6c09b952bycqovweifxzqfxzopjkfp6u65bk8tm5f5n6ammq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="AI Cyber Tech GIF" width="50%">
 </p>
 
 I work with **AI frameworks, deep learning models, and high-performance computing** using:  

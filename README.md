@@ -1,6 +1,9 @@
-<h1 align="center"> 🚀 Ali Shan | @Alishan45 </h1>
+<h1 align="center">
+  🚀 Ali Shan | @Alishan45  
+</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alishan45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://github.com/Alishan45/Alishan/blob/main/file_0000000054fc51f6a9befc2d4f2201d9_conversation_id%3D67d88d99-b1f8-8012-8db3-72a9a0be18af%26message_id%3D7f4b706e-de87-4259-8190-b5d3eece10bb.webp" alt="Banner" width="100%">
 </p>
 
 ---
@@ -49,6 +52,20 @@
 
 ---
 
+## 🛠️ Tools & Technologies  
+<p align="center">
+  <img src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA.gif" alt="AI Cyber Cat" width="50%">
+</p>
+
+I work with **AI frameworks, deep learning models, and high-performance computing** using:  
+✅ Python | TensorFlow | PyTorch | OpenCV | FastAPI  
+✅ React | Next.js | Django | Node.js | Flask  
+✅ PostgreSQL | MongoDB | Firebase | Redis  
+✅ Docker | Kubernetes | CI/CD Pipelines  
+✅ Quantum Cryptography & Post-Quantum Security  
+
+---
+
 ## 📊 GitHub Stats & Achievements  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alishan45&show_icons=true&theme=radical" />
@@ -58,7 +75,7 @@
 ---
 
 ## 📫 How to Reach Me  
-📧 **Email:** Ali3819381@gmail.com
+📧 **Email:** [your email]  
 💼 **LinkedIn:** [your LinkedIn profile]  
 🐦 **Twitter:** [your Twitter handle]  
 🌐 **Portfolio:** [your portfolio website]  

@@ -233,21 +233,15 @@ I am a **Data Scientist** and **AI Engineer** with a Bachelor of Science in Comp
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alishan45&theme=tokyonight&no-frame=true&column=5" alt="GitHub Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alishan45&theme=tokyonight" alt="Profile Summary Cards" />
+  <br />
+  <sub><i>Note: The trophy cards may be rate‑limited; if they fail to load, please try again later.</i></sub>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alishan45&color=blue&style=flat-square" alt="Visitor Counter" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishan45/Alishan45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alishan45/Alishan45/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Alishan45/Alishan45/output/github-snake-dark.svg" />
-</picture>
+> **Note on Contribution Snake:** To include the contribution snake animation, please set up the workflow as described in [Platane/snk](https://github.com/Platane/snk). The current version of this README omits the snake to avoid display errors, but you can easily add it once the workflow is configured.
 
 ---
 

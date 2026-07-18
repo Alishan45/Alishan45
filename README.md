@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Alishan45/Alishan/blob/main/file_0000000054fc51f6a9befc2d4f2201d9_conversation_id%3D67d88d99-b1f8-8012-8db3-72a9a0be18af%26message_id%3D7f4b706e-de87-4259-8190-b5d3eece10bb.webp" alt="Banner" width="100%">
+  <img src=#" alt="Banner" width="100%">
 </p>
 
 ---
